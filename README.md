@@ -1,6 +1,6 @@
 # Surrogate-Assisted Process Optimisation for PFOA Capture
 
-This repository contains the computational workflow for the modelling, surrogate training, and process optimisation of fixed-bed adsorption (GAC) of PFOA from wastewater streams. The project integrates engineering simulations with machine learning to optimise the process capture cost ($/kg).
+This repository contains the computational workflow for the modelling, surrogate training, and process optimisation of fixed-bed adsorption (GAC) of PFOA from wastewater streams. The project integrates finite element simulations with machine learning to optimise the process capture cost ($/kg).
 
 ## Project Structure
 
